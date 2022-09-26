@@ -73,4 +73,4 @@ You can also simulate this behaviour by making a POST request directly to `http:
 
 The server will parse the URL to ensure it is in a valid format - the URL must include the protocol (e.g. `https://`). The dns.lookup only checks the domain is valid, it will not check any path or queries are valid.
 
-The server will respond with a short_url, which will be a number. If you visit `http://localhost:3000/api/shorturl/<number>` where <number> is the response you received from the server, you will automatically be directed to the associated URL that is linked to that number.
+The server will respond with a short_url, which will be a number. If you visit `http://localhost:3000/api/shorturl/<number>` where `<number>` is the response you received from the server, you will automatically be directed to the associated URL that is linked to that number.
