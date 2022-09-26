@@ -14,7 +14,7 @@ Completed as part of freeCodeCamp's Backend and API certification.
 To install this repository on your local machine, fork or clone the repository from GitHub. To do this, you can run:
 
 ```javascript
-git clone https://github.com/SchoolOfCode/final-project_back-end-12.git
+git clone https://github.com/multi-vit/url-shortener.git
 ```
 
 Or to fork, you can press the 'fork' button on this page, and follow the on-screen instructions.
